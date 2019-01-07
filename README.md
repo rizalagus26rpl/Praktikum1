@@ -1,6 +1,6 @@
 # Modul 1
 latihan1
-![alt text] (https://github.com/rizalagus26rpl/Praktikum1/blob/master/Praktikum1/Modul1/Latihan1.png?raw=true)
+![alt text](https://github.com/rizalagus26rpl/Praktikum1/blob/master/Praktikum1/Modul1/Latihan1.png?raw=true)
 latihan2
 ![alt text] (https://github.com/rizalagus26rpl/Praktikum1/blob/master/Praktikum1/Modul1/Latihan2.png?raw=true)
 latihan3
