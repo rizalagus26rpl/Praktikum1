@@ -12,7 +12,7 @@ latihan5
 variabel_hasil
 ![alt text](https://github.com/rizalagus26rpl/Praktikum1/blob/master/Praktikum1/Modul1/Variabel_Hasil.png?raw=true)
 
-#Modul2
+# Modul 2
 latihan1
 ![alt text](https://github.com/rizalagus26rpl/Praktikum1/blob/master/Praktikum1/Modul2/Latihan1.png?raw=true)
 latihan2
